@@ -4,3 +4,4 @@ Repository for my FreeCodeCamp projects.
 <br>02/03/25 completed 4 more steps on the Cat Photo App Project
 <br>02/04/25 completed 12 more steps
 <br>02/05/25 completed 4 more steps
+<br>02/06/25 completed 8 more steps
