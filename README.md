@@ -8,3 +8,4 @@ Repository for my FreeCodeCamp projects.
 <br>02/07/25 completed 7 more steps
 <br>02/08/25 completed 5 more steps
 <br>02/09/25 completed 6 more steps
+<br>02/10/25 completed 8 more steps
