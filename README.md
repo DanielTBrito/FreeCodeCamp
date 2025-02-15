@@ -13,3 +13,4 @@ Repository for my FreeCodeCamp projects.
 <br>02/12/25 completed Cat Photo App Project
 , Started CSS Cafe Menu Project, Completed 11 Steps
 <br>02/14/25 completed 1 step
+<br>02/15/25 completed 12 more steps
