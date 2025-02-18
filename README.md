@@ -14,3 +14,4 @@ Repository for my FreeCodeCamp projects.
 , Started CSS Cafe Menu Project, Completed 11 Steps
 <br>02/14/25 completed 1 step
 <br>02/15/25 completed 26 more steps
+<br>02/17/25 completed 2 more steps
