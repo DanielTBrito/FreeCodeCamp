@@ -15,4 +15,4 @@ Repository for my FreeCodeCamp projects.
 <br>02/14/25 completed 1 step
 <br>02/15/25 completed 26 more steps
 <br>02/17/25 completed 2 more steps
-<br>02/18/25 completed 8 more steps
+<br>02/18/25 completed 8 more steps, completed 17 more steps
