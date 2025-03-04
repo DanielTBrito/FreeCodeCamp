@@ -1,4 +1,4 @@
-/* Step 78 */
+/* Step 80 */
 h1 {
   text-align: center;
 }
@@ -23,9 +23,12 @@ h1 {
   width: 110px;
   height: 25px;
   background-color: rgba(255, 255, 255, 0.5);
+  border-left-width: 10px;
 }
 
-
+.cap, .sleeve {
+  display: inline-block;
+}
 
 .red {
   background: linear-gradient(rgb(122, 74, 14), rgb(245, 62, 113), rgb(162, 27, 27));
