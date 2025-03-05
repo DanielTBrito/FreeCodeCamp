@@ -26,3 +26,4 @@ Repository for my FreeCodeCamp projects.
 <br>03/01/25 completed 8 more steps
 <br>03/02/25 completed 10 more steps
 <br>03/03/25 completed 2 more steps
+<br>03/04/25 completed 14 more steps, completed CSS Color Markers Project
