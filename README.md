@@ -28,3 +28,4 @@ Repository for my FreeCodeCamp projects.
 <br>03/03/25 completed 2 more steps
 <br>03/04/25 completed 14 more steps, completed CSS Color Markers Project
 <br>03/05/25 started HTML Registration Form Project, completed 6 steps
+<br>03/07/25 completed 6 more steps
